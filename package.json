@@ -1,6 +1,7 @@
 {
   "name": "cs-angular",
   "version": "0.0.0",
+  "main": "src/main.ts",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
